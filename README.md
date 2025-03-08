@@ -1,1 +1,1 @@
-# ABAP w/ miniSAP
+# ABAP on SAP Netweaver (MiniSAP)
